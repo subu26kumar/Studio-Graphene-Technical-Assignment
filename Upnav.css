@@ -1,0 +1,21 @@
+.shopkart{
+    margin-right: 400px;
+    font-weight: 350;
+    margin-left: 5%;
+}
+.up{
+    display: flex;
+    margin: 0;
+    background-color: #000;
+}
+.up li{
+    display: block;
+    color: white;
+    width: 100%;
+    font-size: larger;
+}
+.right{
+    margin-right: 20px;
+    margin-left: 38%;
+    margin-top:20px
+}

@@ -1,0 +1,56 @@
+.banner{
+    background-color: #000;
+    color: white;
+    margin-top: -30px;
+    /* margin-top: 20px */
+    /* margin: 0; */
+    height: 100vh;
+    
+}
+.banner h1{
+    font-weight: 900;
+    margin-left: 300px;
+    display: inline-block; /* Make the element a block so that it can be scaled */
+  transform: scaleX(2.0);
+    font-size: 135px;
+    /* line-height: 102.6px; */
+}
+.span1{
+    margin-left: 0px;
+    color: white;
+    font-size: 135px;
+    margin-top: 290px;
+    font-weight: 900; transform: scaleX(2.0);
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px; 
+    line-height: 102.6px;
+   
+}
+.span2{
+   
+    line-height: 102.6px;
+    font-size: 135px;
+    margin-top: 110px;
+    line-height: 12.6px;
+    font-weight: 900;
+    margin-left: 360px;
+    transform: scaleX(2.0);
+}
+.orange{
+    background-color: #f07e15;
+    width: 900px;
+    height: 350px;
+    /* z-index: 10; */
+    margin-left: 535px;
+    margin-top: -520px;
+    /* opacity: 80%; */
+    /* font-size: 120px; */
+}
+ .img1{
+    margin-left: 550px;
+    margin-top: -190px;
+    z-index: 1;
+    width: 350px;
+    height: 600px;
+    opacity: 80%;
+}

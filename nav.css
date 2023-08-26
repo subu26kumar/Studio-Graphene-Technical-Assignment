@@ -1,0 +1,24 @@
+
+.navbar{
+    display: flex;
+    background-color: #000;
+    padding: 10px;
+    justify-content: flex-start;
+}
+.menu{
+    display: flex;
+    cursor: pointer;
+    margin-left: 5%;
+    cursor: pointer;
+    
+}
+.menu li{
+    display: block;
+    margin-left: 70px;
+}
+.menu a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    /* gap: 20px; */
+}
